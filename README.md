@@ -1,4 +1,4 @@
-# Notion for Franz
+# Habitica for Franz
 This is the Franz recipe for [Habitica](https://habitica.com)
 
 ### How to create your own Franz recipes:
